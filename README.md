@@ -8,8 +8,6 @@ The solution is implemented in **Tableau**, with a strong emphasis on:
 - Clear KPI ownership
 - Decision-oriented storytelling
 
---
-
 ## Business Problem
 
 Organizations often track dozens of KPIs without clarity on:
@@ -22,8 +20,6 @@ This KPI Value Tree addresses this by:
 - Linking strategic outcomes to operational drivers
 - Enabling fast root-cause analysis at an executive level
 
---
-
 ## Tableau Implementation
 
 The dashboard is built in Tableau and includes:
@@ -34,4 +30,4 @@ The dashboard is built in Tableau and includes:
 
 The design prioritizes **clarity over decoration**, ensuring that insights are accessible within seconds.
 
-🔗 Live Dashboard: [Tableau Public – KPI Value Tree](https://public.tableau.com/app/profile/dimitrios.kouklakis/viz/DriversValueTree/Timeline)
+🔗 Live Dashboard: [Tableau Public – Drivers Value Tree](https://public.tableau.com/app/profile/dimitrios.kouklakis/viz/DriversValueTree/Timeline)
